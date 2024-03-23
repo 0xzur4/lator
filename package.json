@@ -1,6 +1,5 @@
 {
   "name": "porto-zur4",
-  "private": true,
   "version": "1.4.4",
   "type": "module",
   "scripts": {
